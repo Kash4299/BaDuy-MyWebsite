@@ -83,6 +83,10 @@
   height: 100vh;
 }
 
+#todo-list ul li {
+  margin-left: 40px;
+}
+
 #todo-list .todo-list {
   background-color: #a39bd2;
   min-height: 90vh;
